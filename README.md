@@ -61,7 +61,10 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: KAVIYA SNEKA M
+
 RegisterNumber:  23003642
+
+
 Code:
 ![Exp1 code](https://github.com/kaviya546/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150368823/ed3ec0c0-bdf5-40dd-bdff-1f4f80f83615)
 
